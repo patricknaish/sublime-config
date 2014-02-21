@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"MarkdownEditing",
-		"Package Control"
+		"Package Control",
+		"SmartMarkdown"
 	]
 }
